@@ -1,0 +1,15 @@
+# Ignore executable files
+# 忽略可执行文件
+*.exe
+
+# Ignore JSON files
+# 忽略JSON文件
+*.json
+
+# Ignore Jupyter Notebook files
+# 忽略Jupyter Notebook文件
+# *.ipynb
+
+# Ignore Python cache directories
+# 忽略Python生成的缓存文件夹
+__pycache__/
